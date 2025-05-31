@@ -1,5 +1,5 @@
-torch==1.13.1+cu118
-torchvision==0.14.1+cu118
+torch==2.0.0+cu118
+torchvision==0.15.1+cu118
 # --- SD dependencies
 albumentations==0.4.3
 opencv-python
